@@ -1,0 +1,36 @@
+.header{
+    background-color:black;
+    color:aqua;
+}
+.header:hover{
+    background-color:chocolate;
+    color:black;
+}
+#one{
+    color:brown;
+}
+#two{
+    color:red;
+}
+#three{
+    color:chartreuse;
+}
+#four,#five,#six{
+    color:darksalmon;
+}
+*{
+    color:deeppink;
+}
+.link{
+ text-decoration: none;
+ color:cornflowerblue;
+ background-color:beige;
+ padding:3px;
+ border-radius:3px;
+}
+.link:hover{
+    color:hotpink;
+    background-color:cadetblue;
+
+}
+    
